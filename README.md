@@ -39,5 +39,3 @@ Repository where I will back up all the process done during the process of obtai
 | Documentation & Reporting	               | 0%           | Easy           | **X**     |
 | Attacking Enterprise Networks            | 0%           | Medium         | **X**     |
 
-
-	
