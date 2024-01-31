@@ -12,7 +12,7 @@ Repository where I will back up all the process done during the process of obtai
 |------------------------------------------|--------------|----------------|-----------|
 | Penetration Testing Process              | 100%         | Fundamental    | **✔**     |
 | Getting Started                          | 100%         | Fundamental    | **✔**     |
-| Network Enumeration with Nmap            | 5%           | Easy           | **X**     |
+| Network Enumeration with Nmap            | 5%           | Easy           | **✔**     |
 | Footprinting                             | 0%           | Medium         | **X**     |
 | Information Gathering - Web Edition      | 0%           | Easy           | **X**     |
 | Vulnerability Assessment                 | 0%           | Easy           | **X**     |
