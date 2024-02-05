@@ -13,8 +13,8 @@ Repository where I will back up all the process done during the process of obtai
 | Penetration Testing Process              | 100%         | Fundamental    | **✔**     |
 | Getting Started                          | 100%         | Fundamental    | **✔**     |
 | Network Enumeration with Nmap            | 5%           | Easy           | **✔**     |
-| Footprinting                             | 0%           | Medium         | **X**     |
-| Information Gathering - Web Edition      | 0%           | Easy           | **X**     |
+| Footprinting                             | 4.76%           | Medium         | **X**     |
+| Information Gathering - Web Edition      | 20%           | Easy           | **X**     |
 | Vulnerability Assessment                 | 0%           | Easy           | **X**     |
 | File Transfers                           | 0%           | Medium         | **X**     |
 | Shells & Payloads                        | 0%           | Medium         | **X**     |
@@ -36,7 +36,7 @@ Repository where I will back up all the process done during the process of obtai
 | Attacking Common Applications 	         | 0%           | Medium         | **X**     |
 | Linux Privilege Escalation	             | 0%           | Easy           | **X**     |
 | Windows Privilege Escalation             | 0%           | Medium         | **X**     |
-| Documentation & Reporting	               | 0%           | Easy           | **X**     |
+| Documentation & Reporting	               | 75%           | Easy           | **X**     |
 | Attacking Enterprise Networks            | 0%           | Medium         | **X**     |
 
 **Writeups**
