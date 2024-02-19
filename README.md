@@ -2,7 +2,7 @@
 
 Repository where I will back up all the process done during the process of obtaining the Certified Penetration Testing Specialist (CPTS) in the Hack The Box platform.<br>
 
-**RELATED PATH PROGRESS: 11%**
+**RELATED PATH PROGRESS: 15.2%**
 
 ![CPTS-logo](./img/CPTS.jpg)  
 
